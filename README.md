@@ -11,7 +11,7 @@ For over 10 years, I've helped companies solve business problems with machine le
 🌱 My Portfolio Projects are: [Here]( https://github.com/RichaChimnani/Data-Analyst-Projects)
 
 👨‍💻 My Tableau Projects are: [Here](https://public.tableau.com/app/profile/richa.balani/vizzes)
-                            [Here](https://github.com/RichaChimnani/Tableau-Projects)
+[Here](https://github.com/RichaChimnani/Tableau-Projects)
 
 ☀️ Web-scraping Project:  [Here](https://github.com/RichaChimnani/Web-scrapping-using-Beautifulsoup)
 
