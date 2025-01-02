@@ -1,7 +1,4 @@
-![image](https://github.com/user-attachments/assets/63ce6800-1828-4f77-8aac-3f12449a0b51)
-
-
-
+![WhatsApp Image 2025-01-02 at 12 41 57_deab8ea3](https://github.com/user-attachments/assets/b38f9d79-8b15-4e3a-9026-fb741ee8b7ee)
 
 
 # 👋 Hey, I'm Richa!
