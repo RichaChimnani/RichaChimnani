@@ -11,6 +11,7 @@ A Data Detective with a penchant for crunching numbers and transforming data int
 🌱 My Portfolio Projects are in: https://github.com/RichaChimnani/Data-Analyst-Projects
 
 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/richa.balani/vizzes
+                               
                                https://github.com/RichaChimnani/Tableau-Projects
 
 
