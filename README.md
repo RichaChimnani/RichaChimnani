@@ -14,5 +14,9 @@ For over 10 years, I've helped companies solve business problems with machine le
                                
                                https://github.com/RichaChimnani/Tableau-Projects
 
+☀️ Web-scraping Project:  [Here](https://github.com/RichaChimnani/Web-scrapping-using-Beautifulsoup)
+
+
+
 
 
