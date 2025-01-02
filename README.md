@@ -8,11 +8,10 @@ For over 10 years, I've helped companies solve business problems with machine le
 
 📝 Take a look at my Personal Website: www.richabalani.wixsite.com/richabalani
 
-🌱 My Portfolio Projects are in: https://github.com/RichaChimnani/Data-Analyst-Projects
+🌱 My Portfolio Projects are: [Here]( https://github.com/RichaChimnani/Data-Analyst-Projects)
 
-👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/richa.balani/vizzes
-                               
-                               https://github.com/RichaChimnani/Tableau-Projects
+👨‍💻 My Tableau Projects are: [Here](https://public.tableau.com/app/profile/richa.balani/vizzes)
+                            [Here](https://github.com/RichaChimnani/Tableau-Projects)
 
 ☀️ Web-scraping Project:  [Here](https://github.com/RichaChimnani/Web-scrapping-using-Beautifulsoup)
 
