@@ -1,7 +1,9 @@
-# Hi 👋 I'm Richa
+# 👋 Hey, I'm Richa!
 
 
-A Data Detective with a penchant for crunching numbers and transforming data into strategic decisions..
+I'm an experienced Data Analyst and Tableau Developer.
+
+For over 10 years, I've helped companies solve business problems with machine learning in domains such as banking and healthcare. I see my role as helping data scientists and researchers shorten feedback loops and spend time on their business problems (instead of fussing with cloud resources).
 
 
 🔭 Learn Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime. from: My Python Libraries Tutorials
