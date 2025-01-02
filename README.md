@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/7b4df20a-2a03-45ea-ab53-3a310d699913)
+
+
 # 👋 Hey, I'm Richa!
 
 
