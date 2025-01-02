@@ -12,5 +12,5 @@ A Data Detective with a penchant for crunching numbers and transforming data int
 
 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/richa.balani/vizzes
 
-📫 Email me at: richabalani01@gmail.com
+
 
