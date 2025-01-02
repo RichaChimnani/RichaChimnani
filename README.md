@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/008c8117-2453-4f44-806d-f4f3f50077f7)
+![image](https://github.com/user-attachments/assets/22492d15-de2a-4e06-9b84-00bbac36c85d)
+
 
 
 # 👋 Hey, I'm Richa!
