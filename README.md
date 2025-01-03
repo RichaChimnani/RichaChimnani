@@ -10,6 +10,7 @@ For over 10 years, I've helped companies solve business problems with machine le
 
 
 📝 Take a look at my Personal Website: www.richabalani.wixsite.com/richabalani
+📝 My Linkedin profile : www.linkedin.com/in/richa-balani
 
 🌱 My Portfolio Projects are: [Here]( https://github.com/RichaChimnani/Data-Analyst-Projects)
 
