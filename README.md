@@ -4,9 +4,9 @@
 # 👋 Hey, I'm Richa!
 
 
-I'm an experienced Data Analyst and Tableau Developer.
+I'm an experienced Project Manager with keen eye for detail.
 
-For over 10 years, I've helped companies solve business problems with machine learning in domains such as banking and healthcare. I see my role as helping data scientists and researchers shorten feedback loops and spend time on their business problems (instead of fussing with cloud resources).
+For over 10 years, I've helped companies solve business problems in domains such as insurance and banking. I see my role as helping teams shorten feedback loops and spend time on their business problems (instead of fussing with cloud resources).
 
 
 📝 Take a look at my Personal Website: www.richabalani.wixsite.com/richabalani
